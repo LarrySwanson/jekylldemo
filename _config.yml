@@ -22,7 +22,7 @@ title: Larry Swanson Content Arch
 email: larry@larryswanson.com
 description: "Larry Swanson is a content strategist and information architect and the host of the Content Strategy Insights podcast."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://larryswanson.github.io/jekylldemo" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: LarrySwanson
 github_username:  LarrySwanson
 

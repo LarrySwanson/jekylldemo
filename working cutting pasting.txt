@@ -1,7 +1,2 @@
 working cutting pasting
 
-
-git config --global user.name "Larry Swanson"
-
-
-git config --global user.email "larry@larryswanson.com"
