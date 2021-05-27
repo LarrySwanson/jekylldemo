@@ -30,6 +30,7 @@ github_username:  LarrySwanson
 markdown: kramdown
 plugins:
   - jekyll-feed
+theme: jekyll-theme-minimal
 permalink: /:permalink
 comments: false
 
